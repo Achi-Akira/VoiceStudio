@@ -1,0 +1,9 @@
+{
+  "name": "voicestudio",
+  "version": "1.0.0",
+  "description": "Generate speech with saved or designed voices, clone voices, transcribe, and automate dubbing or narration through a local VoiceStudio backend, plus a maintainer skill for VoiceStudio's repository.",
+  "homepage": "https://github.com/debpalash/VoiceStudio",
+  "repository": "https://github.com/Achi-Akira/VoiceStudio",
+  "license": "AGPL-3.0",
+  "keywords": ["voice", "tts", "speech", "voice-cloning", "transcription", "dubbing", "audiobook"]
+}
